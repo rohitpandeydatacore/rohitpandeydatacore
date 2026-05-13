@@ -7,6 +7,7 @@ Skills: Python(Numpy,Pandas,Matplotlib,Seaborn),Mysql,Microsoft Excel,PowerBI
 - 🔭 I’m currently working on Currently working on a Data Analyst project to strengthen my practical knowledge, improve my resume, and apply the data analysis skills I have learned so far. The project helps me gain hands-on experience in data cleaning, visualization, and extracting meaningful insights from datasets. 
 
 # Examples of Work 
+<img src="https://github.com/rohitpandeydatacore/Superstore-DashBoard/blob/main/dashboard.png" width=256>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rohitpandeydatacore)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rohitpandey27/)  
 
