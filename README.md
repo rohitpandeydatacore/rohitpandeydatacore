@@ -8,7 +8,7 @@ Skills: Python(Numpy,Pandas,Matplotlib,Seaborn),Mysql,Microsoft Excel,PowerBI
 
 # Examples of Work 
 1. Superstore DashBoard  <br>
- <img src="https://github.com/rohitpandeydatacore/Superstore-DashBoard/blob/main/Top_5_Product_Sales.png" width=300>  <img src="https://github.com/rohitpandeydatacore/Superstore-DashBoard/blob/main/Monthly%20Sales.png" width=256>  <img src="https://github.com/rohitpandeydatacore/Superstore-DashBoard/blob/main/dashboard.png" width=256>
+ <img src="https://github.com/rohitpandeydatacore/Youtube_Analysis/blob/main/Time-series_chart.png" width=300>  <img src="https://github.com/rohitpandeydatacore/Superstore-DashBoard/blob/main/Monthly%20Sales.png" width=300>  <img src="https://github.com/rohitpandeydatacore/Superstore-DashBoard/blob/main/dashboard.png" width=300>
 
 2. Youtube_Analysis <br>
 <img src="https://github.com/rohitpandeydatacore/Youtube_Analysis/blob/main/Tree_maps.png" width=300>  <img src="https://github.com/rohitpandeydatacore/Youtube_Analysis/blob/main/box_plot.png" width=256>   <img src="https://github.com/rohitpandeydatacore/Youtube_Analysis/blob/main/bubble_chart.png" width=256>
