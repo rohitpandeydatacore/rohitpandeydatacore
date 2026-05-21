@@ -10,8 +10,8 @@ Skills: Python(Numpy,Pandas,Matplotlib,Seaborn),Mysql,Microsoft Excel,PowerBI
 1. Superstore DashBoard  <br>
  <img src="https://github.com/rohitpandeydatacore/Superstore-DashBoard/blob/main/Top_5_Product_Sales.png" width=300>  <img src="https://github.com/rohitpandeydatacore/Superstore-DashBoard/blob/main/Monthly%20Sales.png" width=256>  <img src="https://github.com/rohitpandeydatacore/Superstore-DashBoard/blob/main/dashboard.png" width=256>
 
-2. Online_retail <br>
-<img src="https://github.com/rohitpandeydatacore/Online_retail/blob/main/Top_5_Customers.png" width=300>  <img src="https://github.com/rohitpandeydatacore/Online_retail/blob/main/Top_Countries_By_Revenue.png" width=256>   <img src="https://github.com/rohitpandeydatacore/Online_retail/blob/main/daily_Sales_trend%20.png" width=256>
+2. Youtube_Analysis <br>
+<img src="https://github.com/rohitpandeydatacore/Youtube_Analysis/blob/main/Tree_maps.png" width=300>  <img src="https://github.com/rohitpandeydatacore/Youtube_Analysis/blob/main/box_plot.png" width=256>   <img src="https://github.com/rohitpandeydatacore/Youtube_Analysis/blob/main/bubble_chart.png" width=256>
 
  
 
