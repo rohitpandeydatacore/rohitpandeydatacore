@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **fresher Front-End Web Developer** and B.Sc. Computer Science graduate (**8.49 CGPA**), currently looking for my first full-time opportunity to grow as a developer. I got hands-on with **HTML5, CSS3, JavaScript (ES6+), React.js, and WordPress** during my internship, where I practiced turning Figma designs into responsive web pages and picked up the basics of clean, modular code with **ESLint**.
+I'm a **fresher Front-End Web Developer** and B.Sc. Computer Science graduate (**8.49 CGPA**), currently looking for my first full-time opportunity to grow as a developer. I got hands-on with **HTML5, CSS3, JavaScript (ES6+), React.js, and WordPress** during my internship, where I practiced turning Figma designs into responsive web pages .
 
 - 🎓 B.Sc. Computer Science graduate (8.49 CGPA), currently pursuing an **MCA** at CSJM University, Kanpur (ODL)
 - 🎯 Actively looking for an **entry-level / fresher Front-End Developer** role
