@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Rohit Kumar Pandey 👋</h1>
-<h3 align="center">Front-End Web Developer | React.js • JavaScript (ES6+) • WordPress</h3>
+<h3 align="center">Fresher Front-End Web Developer | HTML5 • CSS3 • JavaScript • React.js • WordPress</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Building+responsive%2C+user-centric+web+apps;Figma+designs+%E2%86%92+pixel-perfect+code;React.js+%7C+JavaScript+%7C+WordPress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Fresher%2C+ready+to+start+my+career;Learning+by+building+real+projects;HTML+%7C+CSS+%7C+JavaScript+%7C+React" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" />
   <a href="mailto:rohitpandey270320@gmail.com"><img src="https://img.shields.io/badge/Email-rohitpandey270320%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Ballia%2C%20Uttar%20Pradesh%2C%20India-informational?style=flat" />
 </p>
@@ -14,12 +15,13 @@
 
 ### 🧑‍💻 About Me
 
-Detail-oriented **Front-End Web Developer** and B.Sc. Computer Science graduate (**8.49 CGPA**) with hands-on experience building responsive, user-centric web applications using **HTML5, CSS3, JavaScript (ES6+), React.js, and WordPress**. Skilled in converting Figma UI/UX wireframes into clean, cross-browser-compatible code, managing web state with the **LocalStorage API**, and enforcing modular code standards via **ESLint**.
+I'm a **fresher Front-End Web Developer** and B.Sc. Computer Science graduate (**8.49 CGPA**), currently looking for my first full-time opportunity to grow as a developer. I got hands-on with **HTML5, CSS3, JavaScript (ES6+), React.js, and WordPress** during my internship, where I practiced turning Figma designs into responsive web pages and picked up the basics of clean, modular code with **ESLint**.
 
-- 🎓 Currently pursuing an **MCA** at CSJM University, Kanpur (ODL)
-- 🛠️ Comfortable turning a Figma mockup into a fully responsive, production-ready interface
-- 🌱 Learning to build role-based, data-driven UIs with React and Next.js
-- 💬 Ask me about React state/CRUD patterns, responsive layouts, or WordPress site builds
+- 🎓 B.Sc. Computer Science graduate (8.49 CGPA), currently pursuing an **MCA** at CSJM University, Kanpur (ODL)
+- 🎯 Actively looking for an **entry-level / fresher Front-End Developer** role
+- 🛠️ Comfortable turning a Figma mockup into a responsive HTML/CSS/JS page
+- 🌱 Learning React.js fundamentals and exploring **AI-assisted ("vibe") coding** with tools like Gemini to build and learn faster
+- 💬 Happy to learn from feedback — always trying to build something new
 
 ---
 
@@ -41,7 +43,7 @@ Detail-oriented **Front-End Web Developer** and B.Sc. Computer Science graduate 
 ### 💼 Work Experience
 
 **Web Development Intern — Creatofly**
-*july 2026 – sept 2026*
+*Dec 2024 – Feb 2025*
 
 - Engineered responsive, mobile-first web pages with HTML5, CSS3, and JavaScript, improving UI consistency across 3 client projects.
 - Developed and customized 2 WordPress websites from scratch, structuring site layout and optimizing media assets to improve page load speed.
@@ -57,26 +59,27 @@ Detail-oriented **Front-End Web Developer** and B.Sc. Computer Science graduate 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![LocalStorage](https://img.shields.io/badge/-LocalStorage%20API-4A90E2?style=flat-square)
+![Vibe Coded](https://img.shields.io/badge/-Vibe%20Coded%20with%20Gemini-8E75B2?style=flat-square)
 
-A role-based daily task management app built with React and the **Next.js App Router**, developed as a real-world internship project for Creatofly's own team.
+A role-based daily task management app for Creatofly's internship team, built using **React and the Next.js App Router**. I built this through **vibe coding with Google Gemini** — I described the features I wanted in plain language, asked Gemini to generate and explain the code, and then tested, tweaked, and put the pieces together myself.
 
-- Built a **4-view dashboard** (Dashboard, My Tasks, Assigned Tasks, Team) with full **CRUD** — create, edit, complete, and delete tasks — plus filtering and daily progress tracking.
-- Implemented **two-tier role-based access**: every *Team Member* manages their own tasks, while a *Reviewer* role can additionally assign tasks to teammates and monitor overall team progress.
-- Used a lightweight **demo user-selector** in place of full authentication, keeping the focus on UI/state logic and role-based rendering.
-- Persisted all task data to the browser via the **LocalStorage API**, achieving 100% data retention across sessions/refreshes.
-- Structured the codebase into reusable components (`TaskCard`, `TaskList`, `Sidebar`, `Progress`) and enforced consistent syntax with **ESLint**.
+- A **4-view dashboard** (Dashboard, My Tasks, Assigned Tasks, Team) with full **CRUD** — create, edit, complete, and delete tasks — plus filtering and daily progress tracking.
+- **Two roles**: a *Team Member* manages their own tasks, while a *Reviewer* can additionally assign tasks to teammates and see overall team progress.
+- A simple **demo user-selector** instead of real authentication, so the focus stayed on UI and role-based logic rather than building a login system.
+- Task data is saved to the browser using the **LocalStorage API**, so it stays there after a refresh.
+- A first hands-on project for practicing React basics (components, props, state) by pairing AI-generated code with my own testing and understanding.
 
 #### ✈️ [Apna Travels — Travel Booking Landing Page](https://github.com/your-username/apna-travels)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-A fully responsive marketing/landing page built from scratch for a fictional bus-travel brand, "Apna Travels."
+A **clone** of an existing travel-booking landing page for "Apna Travels," built to practice recreating a real UI in code and making it fully responsive.
 
-- Designed a hero section with call-to-action buttons, an "About Us" section, and a **destinations showcase** (Jaipur, Goa, Kerala, Mysore, Rajasthan, Varanasi) using Flexbox and CSS Grid layouts.
-- Added a "Why Choose Us" feature grid (24/7 support, affordable pricing, safety, punctuality) and a customer testimonials section.
-- Built a **dynamic mobile dropdown navigation** in vanilla JavaScript, so the nav menu toggles cleanly on smaller screens.
-- Optimized breakpoints for mobile, tablet, and desktop to **reduce cumulative layout shift (CLS)** and keep the experience visually stable across devices.
+- Recreated the hero section, "About Us" section, a **destinations showcase** (Jaipur, Goa, Kerala, Mysore, Rajasthan, Varanasi), a "Why Choose Us" feature grid (24/7 support, affordable pricing, safety, punctuality), and a testimonials section using Flexbox and CSS Grid.
+- Built a **mobile dropdown navigation menu** with simple JavaScript (a show/hide toggle) so the nav works cleanly on smaller screens.
+- Made the layout **responsive for mobile and tablet screens**, adjusting spacing and breakpoints so the page holds up well on smaller devices.
+- Practiced matching an existing design closely while writing all the HTML and CSS by hand.
 
 #### 🏠 [Best Roofer Service — Business Website](https://github.com/your-username/best-roofer-service)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
