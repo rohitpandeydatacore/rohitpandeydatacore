@@ -41,7 +41,7 @@ Detail-oriented **Front-End Web Developer** and B.Sc. Computer Science graduate 
 ### 💼 Work Experience
 
 **Web Development Intern — Creatofly**
-*Dec 2024 – Feb 2025*
+*july 2026 – sept 2026*
 
 - Engineered responsive, mobile-first web pages with HTML5, CSS3, and JavaScript, improving UI consistency across 3 client projects.
 - Developed and customized 2 WordPress websites from scratch, structuring site layout and optimizing media assets to improve page load speed.
