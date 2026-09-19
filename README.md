@@ -80,7 +80,7 @@ A **clone** of an existing travel-booking landing page for "Apna Travels," built
 - Made the layout **responsive for mobile and tablet screens**, adjusting spacing and breakpoints so the page holds up well on smaller devices.
 - Practiced matching an existing design closely while writing all the HTML and CSS by hand.
 
-#### 🏠 [Best Roofer Service — Business Website](https://github.com/your-username/best-roofer-service)
+#### 🏠 [Best Roofer network Service — Business Website](https://github.com/your-username/best-roofer-service)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 A complete multi-page commercial website for a roofing service business, designed and published on WordPress.
@@ -109,7 +109,7 @@ A complete multi-page commercial website for a roofing service business, designe
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img height="200" width="200" src="https://github.com/rohitpandeydatacore/My-task-Manager-project-/blob/main/dashboard.png" />
   
   <img height="200" width="200" src="https://github.com/rohitpandeydatacore/My-task-Manager-project-/blob/main/assigned-tasks.png" />
