@@ -121,6 +121,6 @@ A complete multi-page commercial website for a roofing service business, designe
 
 <p align="center">
   <a href="mailto:rohitpandey270320@gmail.com"><img src="https://img.shields.io/badge/Email-rohitpandey270320%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
   <img src="https://img.shields.io/badge/Phone-%2B91%208529581468-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
