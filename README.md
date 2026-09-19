@@ -110,9 +110,9 @@ A complete multi-page commercial website for a roofing service business, designe
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="250" width"250" src="https://github.com/rohitpandeydatacore/My-task-Manager-project-/blob/main/dashboard.png" />
+  <img height="200" width="200" src="https://github.com/rohitpandeydatacore/My-task-Manager-project-/blob/main/dashboard.png" />
   
-  <img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true](https://github.com/rohitpandeydatacore/My-task-Manager-project-/blob/main/assigned-tasks.png)" />
+  <img height="200" width="200" src="https://github.com/rohitpandeydatacore/My-task-Manager-project-/blob/main/assigned-tasks.png" />
 </p>
 
 ---
